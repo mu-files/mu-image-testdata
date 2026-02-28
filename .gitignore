@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Generated test outputs
+output_comparison/
