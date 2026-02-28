@@ -26,5 +26,5 @@ If you need to clone manually:
 
 ```bash
 cd /path/to/mu-image/muimg/tests
-git clone git@github.com:mattuyttendaele/mu-image-testdata.git fixtures
+git clone git@github.com:mu-files/mu-image-testdata.git fixtures
 ```
